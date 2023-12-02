@@ -1,3 +1,7 @@
+# Screenshots 
+<img width="722" alt="Screenshot 2023-12-02 at 3 07 35 PM" src="https://github.com/ssolit/aleo-workshop/assets/49683577/cc1de08f-573d-41bf-a804-b4112a216b24">
+<img width="785" alt="Screenshot 2023-12-02 at 3 07 44 PM" src="https://github.com/ssolit/aleo-workshop/assets/49683577/f0da77db-193d-4c17-a10b-2b1f8fa4366c">
+
 # Aleo Deployment Demo
 
 In this repository we will go through the steps to deploy your own Leo program on the Aleo Network.
